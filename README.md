@@ -3,7 +3,7 @@ This Api is used to Authenticate and generate the token
 
 Project Name - User-Authenticatior(An APi to Authenticate the user)
 used Techenology - Java(Spring-Boot,Spring Security), Mysql Database
-------------------------------- ABOUT FEATURES -------------
+
 About Implemented Feature:
 1. We can create User/Signup wing email and password
 2. Login the user using email and password and generate the Acces-Token and Refresh-Token
@@ -15,4 +15,4 @@ About Implemented Feature:
 5. User can remove/delete any user
 6. user can revoke any Acces-Token it can be possible from backend also
 
-Note : this is a master branch so please use this command to make clone - git clone -b master
+Note : Project is Deployed on Master branch so remember during cloning.
